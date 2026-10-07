@@ -1,0 +1,1 @@
+ALTER TABLE `carts` ADD `revision` text NOT NULL;

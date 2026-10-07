@@ -1,0 +1,20 @@
+{
+  "money": {
+    "url": "https://blancartisan.com/money-bouquet-singapore/",
+    "image": "assets/money.jpg",
+    "source": "https://i0.wp.com/blancartisan.com/wp-content/uploads/2026/07/168-12dempsey03.jpg?fit=768%2C1024&ssl=1",
+    "collectedAt": "2026-10-07T09:06:04.930671+00:00"
+  },
+  "wedding": {
+    "url": "https://blancartisan.com/product/white-tulip-bridal-bouquet-singapore/",
+    "image": "assets/wedding.jpg",
+    "source": "https://i0.wp.com/blancartisan.com/wp-content/uploads/2026/08/Sophie03.jpg?fit=1536%2C2048&ssl=1",
+    "collectedAt": "2026-10-07T09:06:04.930671+00:00"
+  },
+  "occasions": {
+    "birthday": "https://blancartisan.com/birthday-bouquet-delivery-singapore/",
+    "anniversary": "https://blancartisan.com/anniversary-bouquet-delivery-singapore/",
+    "graduation": "https://blancartisan.com/graduation-bouquet-delivery-singapore/"
+  },
+  "occasionSource": "https://blancartisan.com/"
+}
